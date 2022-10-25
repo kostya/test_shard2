@@ -4,6 +4,6 @@ module TestShard2
   # TODO: Put your code here
 
   def self.bla
-    1
+    2
   end
 end
